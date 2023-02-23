@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Algoritmo
+comment1.params=radio
+comment1.target=java.util.ArrayList\ calcularPuntosX(int)
+comment2.params=radio
+comment2.target=java.util.ArrayList\ calcularPuntosY(int)
+comment3.params=xrad\ yrad\ xp\ yp
+comment3.target=java.util.ArrayList\ calPuntosOficial(int,\ int,\ int,\ int)
+comment4.params=puntos
+comment4.target=java.util.ArrayList\ Octantes(java.util.ArrayList)
+comment5.params=r
+comment5.target=java.util.ArrayList\ graficandoConPolar(int)
+numComments=6

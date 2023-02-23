@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyPanel
+comment1.params=centroX\ centroY\ radio
+comment1.target=MyPanel(int,\ int,\ int)
+comment2.params=
+comment2.target=MyPanel()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=centroX\ centroY\ radio
+comment4.target=void\ main(int,\ int,\ int)
+numComments=5
